@@ -8,3 +8,5 @@ Simple, searchable, beautiful documentation.
 * Searchable
 * Beautiful
 
+If you are passionate about building an awesome documentation solution, please join us.
+
