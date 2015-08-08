@@ -15,6 +15,6 @@ You can contribute right now by adding your thoughts to the wiki: https://github
 ## Simplicity
 
 Simplicity is beautiful.    
-Elegant designs are simple.   
-Speed is beautiful.   
+Elegance is simple.   
+Speed is elegant.   
 We hate to wait.   
