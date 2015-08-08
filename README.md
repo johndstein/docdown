@@ -14,7 +14,11 @@ You can contribute right now by adding your thoughts to the wiki: https://github
 
 ## Simplicity
 
-Simplicity is beautiful.    
-Elegance is simple.   
-Speed is elegant.   
+Simplicity is beauty.    
+Elegance is simplicity.   
+Speed is elegance.   
 We hate to wait.   
+
+Building simple, elegant solutions is hard work.   
+It takes discipline, commitment, and some blood, sweat and tears.   
+We shall see . . .    
