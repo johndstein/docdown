@@ -2,9 +2,9 @@
 
 Super simple, rocket fast, searchable documentation.
 
-**Features**
+## Features
 
-* Easy -- your grandma could use it
+* Easy -- Your grandma could use it.
 * Fast
 * Searchable
 
