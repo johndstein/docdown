@@ -1,11 +1,10 @@
 # docdown
 
-Super simple, rocket fast, searchable documentation.
+Simple, searchable, beautiful documentation.
 
-## Features
+## Core Values
 
-* Fast
-* Easy
-* Beautiful
+* Simple
 * Searchable
+* Beautiful
 
