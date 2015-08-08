@@ -20,5 +20,5 @@ Speed is elegance.
 We hate to wait.   
 
 Building simple, elegant solutions is hard work.   
-It takes discipline, commitment, and some blood, sweat and tears.   
+It takes discipline, commitment and some blood, sweat and tears.   
 We shall see . . .    
