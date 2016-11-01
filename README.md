@@ -1,7 +1,4 @@
-~~DEPRECATED. Honestly I have searched for a long time to find this, 
-but https://labnotes.torchpad.com/ does everything I need for now.~~
-
-torchpad broke on me. anyone interested in building a simple doc app?
+I really wish I had time for this. Still have not found a decent solution.
 
 # docdown
 
